@@ -19,7 +19,7 @@
 
 ### 1️⃣ Clone this repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/vgvr0/TikTok-Video-Downloader-Python
 cd tiktok-downloader
 ```
 
